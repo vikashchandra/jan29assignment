@@ -39,23 +39,14 @@ Ans-A path variable contains a list of paths to executable programs in the machi
 Whenever we enter a command into the terminal, the system looks up the PATH variable for the path where the program is placed, which refers to the command. If the path to the required file is not found, it responds with an error message stating that​ the specified command was not recognized.
 Steps to add Python to PATH
 Below are the steps we must take to add python to our PATH variable.
-
 First, we must find the directory where we installed Python. A typical installation would have the following path, C:\Users\MyUserName\AppData\Local\Programs\Python\Python310
-
 Now, we will need to add this to the PATH variable, we right click on "This PC" and go to "Properties".
-
 Then, we click on the "Advanced system settings" in the menu on the left.going
-
 In the bottom right, we can see a button labeled "Environment Variables". We will click on it to open another window to edit these variables.
-
 Now, we select the "Path variable" in the "System variables" section and click "Edit". The next screen will show all the directories currently part of the PATH variable.
-
 Another window opens up where we can see all the paths for the currently configured system variables. To add a new path for our Python program, we will click on the "New" button on the right side and paste the path in Step 1
-
 We have successfully added the path for our Python program to our system's environment variables. The best practice is to restart the system afterward for the change to occur.
-
 Now, we can verify if the PATH variable was configured correctly by opening up the terminal and entering the command python --version.
-
 After all the following steps are completed, when we run the command on the command prompt, we should get a similar output to the one shown below...
 C:\>python --version
 python 3.10
