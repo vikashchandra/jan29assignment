@@ -11,3 +11,7 @@ ANS- Python is interpreted language. which means the source code of a python pro
 Q.6.Name a few blocks of code used to define in python language?
 ANS-There are many name that is used to define the blocks of code in python language  such that "if","else","elif","for loop" etc.
 In the python block is represented by indentation.
+Q.7.State the character used to give single-line  comments in python?
+ANS-The '#' symbol is used to give the single line comment in the python.
+Q.8.Mention functions which can help us to find the version of python that we are currently working on?
+ANS-The function is "python --version" help us to find the version of python that we are currently working on.
