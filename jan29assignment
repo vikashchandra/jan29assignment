@@ -8,4 +8,6 @@ Q.4. What is the correct extension of the python file?
 ANS- .py is extension of the python file.
 Q.5. Is python code compiled or interpreted?
 ANS- Python is interpreted language. which means the source code of a python program is converted into byte code then executed by the python  virtual machine.
-
+Q.6.Name a few blocks of code used to define in python language?
+ANS-There are many name that is used to define the blocks of code in python language  such that "if","else","elif","for loop" etc.
+In the python block is represented by indentation.
