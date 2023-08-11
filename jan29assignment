@@ -1,0 +1,11 @@
+Q.1. Who developed Python programming Language?
+ANS-Python was developed Guido van rossum in 1991.
+Q.2. Which type of programming does python support?
+ANS-Python supports object oriented programming.Means it focuses on data rather than function. 
+Q.3.Is Python case sensitive when dealing with identifiers?
+ANS- Yes,Python is case sensitive when dealing with identifiers.
+Q.4. What is the correct extension of the python file?
+ANS- .py is extension of the python file.
+Q.5. Is python code compiled or interpreted?
+ANS- Python is interpreted language. which means the source code of a python program is converted into byte code then executed by the python  virtual machine.
+
