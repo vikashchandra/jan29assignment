@@ -15,3 +15,21 @@ Q.7.State the character used to give single-line  comments in python?
 ANS-The '#' symbol is used to give the single line comment in the python.
 Q.8.Mention functions which can help us to find the version of python that we are currently working on?
 ANS-The function is "python --version" help us to find the version of python that we are currently working on.
+Q.11. Mention a few built-in functions in python?
+Ans- there are so many functions in python for different purpose.
+Such that 
+1.insert
+2.append
+3.pop
+4.find
+5.replace   etc...
+Q.12.What is the maximum possible length of  an identifier in python?
+ANS-we can use identifier in 79 character.Means maximum length of identifier is 79.
+Q.13.What are the benifits of using python?
+Ans-There are so many benifits of using python.
+1.firstly python is object oriented programming language so it focuses on data.
+2.In the python we use access modifier such that public,private,protected.We can secure our data.
+3.We can use the python in backend web developing,AI,data analysis,scientific computing etc.
+4.When we want to declare any variable ,we do not define the data type with variable name.
+5.We can use function inside function.
+
